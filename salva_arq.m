@@ -1,0 +1,7 @@
+function salva_arq(Coef,arq_nome)
+ENTRADA_TREINO=Coef(1:84,1:16)';
+SAIDA_TREINO=Coef(1:84,17)';
+ENTRADA_TESTE=Coef(85:120,1:16)';
+SAIDA_TESTE=Coef(85:120,17)';
+save(arq_nome,'ENTRADA_TREINO','ENTRADA_TESTE','SAIDA_TREINO','SAIDA_TESTE');
+end
