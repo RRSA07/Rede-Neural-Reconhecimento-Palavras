@@ -1,5 +1,5 @@
 # Rede-Neural-Reconhecimento-Palavras-Matlab
-Este trabalho busca analisar o desempenho de rede neurais do tipo MLP (Multilayer perceptron) em problemas de reconhecimento de voz dependentes do falante (speaker-dependent). Todos os classificadores utilizam dados extraídos dos arquivos de áudio na forma de 16 coeficientes LPCC (Linear Predictive Cepstral Coefficients), obtidos a partir de um igual numero de coeficientes LPC (Linear Predictive Coding) através de uma função recursiva.
+Este trabalho busca analisar o desempenho de rede neurais do tipo MLP (Multilayer perceptron) em problemas de reconhecimento de voz. Todos os classificadores utilizam dados extraídos dos arquivos de áudio na forma de 16 coeficientes LPCC (Linear Predictive Cepstral Coefficients), obtidos a partir de um igual numero de coeficientes LPC (Linear Predictive Coding) através de uma função recursiva.
 
 1. Dataset
 
